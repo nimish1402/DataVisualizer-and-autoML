@@ -1,0 +1,5 @@
+dynamic cv(cross validation) updation based on the dataset
+data visualization 
+Auto ML Faml
+data preprocessing 
+download Ml model (.ipynb) file 
