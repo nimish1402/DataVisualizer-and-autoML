@@ -19,16 +19,16 @@ This project is a web-based application built with Streamlit that allows users t
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
    cd your-repo-name
-2. ## Set up a Virtual Environment
+2. **Set up a Virtual Environment**
     python -m venv .venv
     source .venv/bin/activate   # On Windows use: .venv\Scripts\activate
 
-3. Install Dependencies
+3. **Install Dependencies**
     Install the required Python libraries using pip:
 
    ``` bash
     pip install -r requirements.txt
-4. Run the App
+4. **Run the App**
   Start the Streamlit app by running:
 
     ```bash
